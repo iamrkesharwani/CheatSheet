@@ -78,7 +78,7 @@ cd my-project
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
-// If error occurred, then use this:
+# If error occurred, then use this:
 npm install -D tailwindcss@3 postcss autoprefixer
 npx tailwindcss init -p
 ```
